@@ -1,0 +1,5 @@
+test_bol : False
+test_string : "hej"
+test_int : 2
+robot_picking_mode : False
+

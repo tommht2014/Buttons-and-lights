@@ -1,0 +1,3 @@
+test_bol : False
+test_string : "hej"
+test_int : 2

@@ -1,0 +1,5 @@
+human_detected: False
+emergency_button: False
+next_robotmovement_button: False
+robot_collaborative_mode: False
+robot_picking_mode: False
